@@ -28,7 +28,7 @@ Ab jetzt arbeitest du in deinem eigenen Repo. Prüfe vor dem Bearbeiten, ob dein
 
 Verweise im Tagebuch auf konkrete Fundstellen. Sobald du die Quelle unter der Überschrift `### Q01` erfasst hast, verlinkst du sie zum Beispiel mit `[Q01, S. 12](Literaturverzeichnis.md#q01)`.
 
-## 4. Richte das Betreuungs-Issue ein
+## 4. Richte das Betreuungs-Issue ein (nein, wir verwenden Teams)
 
 1. Öffne in deinem privaten Repo **Issues → New issue**. Falls der Reiter **Issues** fehlt, schalte ihn unter **Settings → General → Features** ein.
 2. Gib dem Issue den Titel **Betreuung** und erstelle es.
